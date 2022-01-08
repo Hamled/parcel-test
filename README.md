@@ -1,10 +1,11 @@
-# parcel-test
+# Parcel resolve error
 
 ## Configuration
 
 1. Arch Linux: `Linux malu 5.15.13-arch1-1 #1 SMP PREEMPT Wed, 05 Jan 2022 16:20:59 +0000 x86_64 GNU/Linux`
 1. `node --version`: `v17.3.0`
 1. `yarn --version`: `3.1.1`
+1. parcel package version is 2.1.1
 1. `yarn` was installed with: `corepack enable --install-directory ~/.local/bin` and then `yarn set version 3.1.0`
 
 ## Project setup commands:
